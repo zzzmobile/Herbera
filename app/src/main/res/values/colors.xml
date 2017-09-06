@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#89b625</color>
+    <color name="colorPrimaryDark">#427500</color>
+    <color name="colorAccent">#274500</color>
+
+    <color name="grayColor">#7F7F7F</color>
+    <color name="lightGrayColor">#a5a5a5</color>
+    <color name="darkGrayColor">#3f3f3f</color>
+
+    <integer-array name="gplus_colors">
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimary</item>
+    </integer-array>
+
 </resources>

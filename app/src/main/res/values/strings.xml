@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Herbera</string>
+
+    <!-- Login Screen -->
+    <string name="hint_email">Your Email</string>
+    <string name="hint_password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="have_account">Don\'t you have an account?</string>
+    <string name="register">Register Here</string>
+
+    <!-- Register Screen -->
+    <string name="create_account">Create your account here</string>
+    <string name="hint_name">Your Name</string>
+    <string name="hint_number">Mobile Number</string>
+    <string name="seller">Seller</string>
+    <string name="buyer">Buyer</string>
+    <string name="already_member">Already a Member?</string>
+    <string name="go_login">Go and Log in</string>
+
+    <!-- Reset Password -->
+    <string name="hint_otp">OTP</string>
+
 </resources>
